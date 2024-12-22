@@ -92,6 +92,7 @@ main{
 .close-modal-btn-container{
     text-align: right;
     margin: 9px;
+    cursor: not-allowed;
 }
 
 .modal-close-btn {
