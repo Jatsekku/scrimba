@@ -15,7 +15,7 @@ const playlistHtml = playlistArr.map(function(piece){
             </div>
         </section>
     `
-})
+}).join('')
 
 console.log(playlistHtml)
 
